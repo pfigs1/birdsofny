@@ -1,0 +1,192 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+/* Please be very careful when making changes to the stylesheet */
+/* Please be very careful when making changes to the stylesheet */
+header h1 {
+ font-family: 'Josefin Slab', serif;
+  font-size: 60px;
+  text-align:center;
+  color: black;
+}
+
+.container {
+  background-color: antiquewhite;
+  margin: auto;
+  width: 1100px;
+  text-align: center;
+}
+
+header {
+  background-image: url(images/birdwireB-03.png);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+  background-color: coral;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  padding: 10px;
+}
+
+.middle {
+  background-color: antiquewhite;
+}
+
+.horizontal ul{
+  text-align: center;
+  list-style-type: none;
+  
+}
+.horizontal li{
+  display: inline-block;
+  margin: 1px;
+}
+
+.horizontal a{
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+  color: black;
+  padding: 60px;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+nav{
+  background-color: lightgrey;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  text-align:left;
+  color: coral;
+  padding: 3px;
+}
+
+a:link, a:visited {
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover, a:active {
+  color: coral;
+}
+.photo p 
+{margin: auto;
+  width: 700px;
+}
+
+
+/* Please be very careful when making changes to the stylesheet */
+
+.content {
+  background-color: antiquewhite;
+  display: inline-block;
+  width: 800px;
+  vertical-align: top;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+
+
+footer {
+  background-image: url(images/birdwireB-03-03.png);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+  background-color: coral;
+  font: 'Josefin Sans';  font-family: sans-serif;
+  padding: 40px;
+  height: 40px;
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 28px;
+  text-align:left;
+  color: black;
+}
+
+h5 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 28px;
+  text-align:center;
+  color: black;
+}
+
+/* Please be very careful when making changes to the stylesheet */
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+  background-color: black;
+  background-image: url(images/PigeonMotif2.png);
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+  text-align: left;
+  color: black;
+  padding: 10px;
+  width: 800px;
+}
+
+#bird {
+  display: inline-block;
+  text-align: center;
+}
+
+.card {
+	width:300px;
+	margin:10px;
+  background-color: coral;
+  border-color: white;
+}
+
+
+/* Please be very careful when making changes to the stylesheet */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
